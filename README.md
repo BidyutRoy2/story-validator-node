@@ -121,7 +121,7 @@ cat $HOME/.story/story/config/private_key.txt
 ```bash
 story validator create --stake 1000000000000000000 --private-key PRIVATE_KEY_OF_EVM_YOU_COPIED_IN_THE_AVOBE_STEP
 ```
-- Now copy this validator wallet's pruvate key as well and save it
+- Now copy this validator wallet's private key as well and save it
 ```bash
 cat $HOME/.story/story/config/priv_validator_key.json
 ```
